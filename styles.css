@@ -36,6 +36,7 @@
     display: flex;
     justify-content: baseline;
     align-items: center;
+    gap: 8px;
 
 }
 .logo-text{
@@ -186,7 +187,7 @@ a{
 
     50%{
         transform: scale(1.1);
-        filter: grayscale(1);
+        
         
     }
 
@@ -441,7 +442,7 @@ a{
   }
 
   #project1{
-    background-image: url(./images/projects/studynotion.png);
+    background-image: url(./images/projects/Password-generator.png);
   }
   #project2{
     margin: 120px;
